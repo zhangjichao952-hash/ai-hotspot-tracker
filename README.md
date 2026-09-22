@@ -60,6 +60,8 @@ openpyxl 遵循 MIT License，仅用于本地 Excel 文件生成，不涉及网�
 ```
 ai-hotspot-tracker/
 ├── SKILL.md                          # 主手册：五步工作流程
+├── AGENTS.md                         # Agent 行为规范与安全边界
+├── SOUL.md                           # Agent 人格定义与价值观
 ├── PRIVACY_POLICY.md                 # 用户协议与隐私政策
 ├── LICENSE                           # MIT 开源协议
 ├── references/
