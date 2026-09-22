@@ -29,11 +29,7 @@ git clone git@github.com:zhangjichao952-hash/ai-hotspot-tracker.git ~/.stepfun/s
 
 ## 卸载方法
 
-```bash
-rm -rf ~/.stepfun/skills/ai-hotspot-tracker
-```
-
-卸载后不会在系统中残留任何数据。
+删除 `~/.stepfun/skills/ai-hotspot-tracker` 目录即可，卸载后不会在系统中残留任何数据。
 
 ## 安装及运行所需权限
 
